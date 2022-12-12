@@ -1,0 +1,7 @@
+Meine erste HTML Seite
+HTML zu lernen ist gar nicht so schwer und es bietet viele Möglichkeiten, deshalb möchten wir die
+Formatierungseigenschaften benutzen.
+Man kann z.B. einen Text fett, kursiv oder auch unterstrichen darstellen.
+HTML bietet mir aber auch die Möglichkeit Wörter durchzustreichen, sowie auch tiefzustellen oder
+hochzustellen. Auch die Schriftgröße kann beliebig geändert werden
+Auch die Schriftart kann geändert werden!
