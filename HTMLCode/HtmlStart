@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTMLStart</title>
+</head>
+<body>
+    <h1>Meine erste HTML Seite</h1>
+        <p>HTML zu lernen ist gar nicht so schwer und es bietet viele Möglichkeiten, deshalb möchten wir die<br>
+            Formatierungseigenschaften benutzen.<br>
+        Man kann z.B. einen Text <b>fett</b>, <i>kursiv</i> oder auch <u>unterstrichen</u> darstellen.<br>
+        HTML bietet mir aber auch die Möglichkeit Wörter <s>durchzustreichen</s>, sowie auch <sub>tiefzustellen</sub> oder<br>
+        <sup>hochzustellen</sup>. Auch die <font size = "6">Schriftgröße</font> kann <font size = "0">beliebig</font> geändert werden<br>
+        Auch die <font face ="Comic Sans MS";size ="5" >Schriftart</font> <font face ="Algerian"; size = "2">kann</font> geändert werden!</p>
+
+
+</body>
+</html>
